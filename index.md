@@ -1,10 +1,9 @@
+<h1>Introduction</h1
+                  
 <h3>Hello everyone, I am Prachi</h3>
 
-<h1>About Me</h1>
+This is the collection of my hands-on experience across IT and cybersecurity through real projects: custom home labs, security hardening setups, scripts, and detailed troubleshooting logs. Alongside the final configurations, I share the exact problems I ran into and the steps I took to solve them. This is a living repository that grows as I tackle new labs and advance through my certifications.
 
-This portfolio is a hands-on record of my work in IT and cybersecurity. It shows the projects I've built — home lab networks, security setups, scripts, and troubleshooting write-ups — so you can see what I've actually done, not just a list of skills.
-Everything is documented clearly, including the issues I ran into and how I fixed them. I update it as I finish new projects and work through my certifications.
-This portfolio is actively updated as projects are completed - more is to come...
 <br><br>
 Thank-you for visiting!
 
