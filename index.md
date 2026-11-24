@@ -1,12 +1,9 @@
-[Linkedin](https://www.linkedin.com/in/prachi-chaurasia-2a419782/)    || Email: prachiwork2@gmail.com
-
-
-<h1>Introduction</h1>
+[Linkedin](https://www.linkedin.com/in/prachi-chaurasia-2a419782/)          ||       Email: prachiwork2@gmail.com
 
 
 <h3>Hello everyone,</h3>
 
-This is the collection of my IT and cybersecurity projects which includes custom home labs, security hardening setups, scripts, and detailed troubleshooting logs. Alongside the final configurations, I share the exact problems I ran into and the steps I took to solve them.
+This is the collection of my cybersecurity projects which includes custom home labs, security hardening setups, scripts, and detailed troubleshooting logs. Alongside the final configurations, I share the exact problems I ran into and the steps I took to solve them.
 <br><br>
 This is a living repository that grows as I tackle new labs and advance through my certifications.
 <br><br>
