@@ -2,7 +2,7 @@
                   
 <h3>Hello everyone, I am Prachi</h3>
 
-This is the collection of my hands-on experience across IT and cybersecurity through real projects: custom home labs, security hardening setups, scripts, and detailed troubleshooting logs. Alongside the final configurations, I share the exact problems I ran into and the steps I took to solve them. This is a living repository that grows as I tackle new labs and advance through my certifications.
+This is the collection of my IT and cybersecurity projects which includes custom home labs, security hardening setups, scripts, and detailed troubleshooting logs. Alongside the final configurations, I share the exact problems I ran into and the steps I took to solve them. This is a living repository that grows as I tackle new labs and advance through my certifications.
 
 <br><br>
 Thank-you for visiting!
