@@ -34,7 +34,7 @@ View project → [Meadowbrook Medical Network](Meadowbrook%20Network)
 
 <br><br>
 
-<h2><strong>🕵️ Web Application Penetration Test — DVWA & Mutillidae</strong></h2>
+<h2><strong>Penetration Testing — DVWA & Mutillidae</strong></h2>
 
 This project documents a full web application penetration test I carried out in my home lab against two deliberately vulnerable training applications, DVWA and Mutillidae, both hosted on a Metasploitable2 target. The goal was to work through the OWASP Top 10 end to end — from reconnaissance, to exploitation, to writing the kind of client-facing report a real engagement produces, complete with CVSS risk ratings and remediation advice.
 
@@ -42,7 +42,7 @@ View project ->[Web App Pentest](web-app-pentest/README.md)
 
 <br><br>
 
-<h2><strong>⛵ SchoonerScanner Port Scanner</strong></h2>
+<h2><strong> Port Scanner</strong></h2>
 
 <p>a lightweight, multithreaded TCP port scanner built in Python. It takes a target and a range of ports, then reports which are open and what service each typically runs. Written from scratch with the standard library to demonstrate socket programming, concurrency, and clean CLI design.
 
@@ -51,7 +51,16 @@ View project -> [SchoonerScan](schoonerscan/README.md)
 
 <br><br>
 
-<h2><strong>🖥️ Home Lab — Virtualised Network & Security Environment</strong></h2>
+<h2><strong>🖥️ Home Lab, Nmap and Wireshark</strong></h2>
+
+VirtualBox · Ubuntu · pfSense · Kali Linux · Wireshark · Nmap
+
+Building a virtualised home lab for hands-on networking and security practice. Sessions cover VM setup, firewall configuration, network monitoring, and offensive security tooling — with documented troubleshooting notes at every step.
+
+View project → [Virtualised Network & Security Environment](homelab)
+<br><br>
+
+<h2><strong>Incident Response Plan </strong></h2>
 
 VirtualBox · Ubuntu · pfSense · Kali Linux · Wireshark · Nmap
 
