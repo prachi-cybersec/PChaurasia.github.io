@@ -26,11 +26,9 @@ Thank-you for visiting!
 <br><br>
 <h2><strong> Packet Tracer</strong></h2>
 
-Cisco Packet Tracer · VLSM · VLANs · Router-on-a-stick · ACLs
+This project simulates a small office with separate departments on their own VLANs. The network gives each department the access it needs, blocks traffic that should not cross between them, and hardens the routers and switches against common access and layer 2 attacks.
 
-Designed and built a multi-department hospital network from scratch. Subnetted a 192.168.50.0/24 block using VLSM, configured VLANs across two switches, implemented inter-VLAN routing, and applied ACLs to block Guest-to-Clinical traffic. Verified with end-to-end pings.
-
-View project → [Meadowbrook Medical Network](Meadowbrook%20Network)
+View project → [Packet Tracer](packet-tracer/README.md)
 
 
 <br><br>
@@ -39,7 +37,7 @@ View project → [Meadowbrook Medical Network](Meadowbrook%20Network)
 
 This project documents a full web application penetration test I carried out in my home lab against two deliberately vulnerable training applications, DVWA and Mutillidae, both hosted on a Metasploitable2 target. The goal was to work through the OWASP Top 10 end to end — from reconnaissance, to exploitation, to writing the kind of client-facing report a real engagement produces, complete with CVSS risk ratings and remediation advice.
 
-View project ->[Web App Pentest](web-app-pentest/README.md)
+View project ->[Pentesting](pentest/README.md)
 
 <br><br>
 
@@ -47,7 +45,7 @@ View project ->[Web App Pentest](web-app-pentest/README.md)
 
 <p>a lightweight, multithreaded TCP port scanner built in Python. It takes a target and a range of ports, then reports which are open and what service each typically runs. Written from scratch with the standard library to demonstrate socket programming, concurrency, and clean CLI design.
 
-View project -> [SchoonerScan](schoonerscan/README.md)
+View project -> [Port Scanner](port-scanner/README.md)
 
 
 <br><br>
