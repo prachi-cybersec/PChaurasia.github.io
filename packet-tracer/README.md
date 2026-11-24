@@ -26,9 +26,9 @@ This project simulates a small office with separate departments on their own VLA
 
 | Device | Model | Role |
 | --- | --- | --- |
-| R1 | `[Cisco 2911]` | Router, inter-VLAN routing, DHCP, ACLs |
-| SW1 | `[Cisco 2960]` | Access switch with VLANs and port security |
-| Server1 | Server-PT | `[internal web/DNS server]` |
+| R1 | Cisco 2911 | Router, inter-VLAN routing, DHCP, ACLs |
+| SW1 | Cisco 2960 | Access switch with VLANs and port security |
+| Server1 | Server-PT | Internal web/DNS server |
 | PC1 to PC4 | PC-PT | End-user workstations |
 
 ### VLANs and IP Addressing
