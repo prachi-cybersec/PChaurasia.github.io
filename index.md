@@ -3,11 +3,8 @@
 <h3>Hello everyone, I am Prachi</h3>
 
 This is the collection of my IT and cybersecurity projects which includes custom home labs, security hardening setups, scripts, and detailed troubleshooting logs. Alongside the final configurations, I share the exact problems I ran into and the steps I took to solve them. This is a living repository that grows as I tackle new labs and advance through my certifications.
-
 <br><br>
 Thank-you for visiting!
-
-
 <br><br>
 
 📍 Melbourne, VIC
@@ -16,17 +13,15 @@ Thank-you for visiting!
 <br><br>
 🔌 Cert III in Information Technology
 <br><br>
-🌐Google Cybersecurity Certificate
+🏅 Pursuing SC-900: Microsoft Certified Security, Compliance, and Identity Fundamentals
 <br><br>
-🖧 Cisco Networking Essentials
-<br><br>
-🏅 Pursuing CompTIA Network+ and Security+
+🏅 Pursuing SC-200: Microsoft Certified Security Operations Analyst Associate
 <br><br>
 
 <h1>Projects</h1>
 
 <br><br>
-<h2><strong>🏥 Meadowbrook Medical — Multi-VLAN Network Design</strong></h2>
+<h2><strong> Packet Tracer</strong></h2>
 
 Cisco Packet Tracer · VLSM · VLANs · Router-on-a-stick · ACLs
 
