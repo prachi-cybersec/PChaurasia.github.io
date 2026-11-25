@@ -1,4 +1,4 @@
-# Secure Small Office Network (Cisco Packet Tracer)
+# Packet Tracer
 
 A Cisco Packet Tracer lab that designs, builds and secures a small office network using VLAN segmentation, inter-VLAN routing, DHCP, access control lists (ACLs), SSH and switch port security.
 
