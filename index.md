@@ -24,6 +24,16 @@ Thank-you for visiting!
 <h1>Projects</h1>
 
 <br><br>
+
+<h2><strong>- Home Lab </strong></h2>
+
+VirtualBox · Ubuntu · Kali Linux · Wireshark · Nmap
+
+Building a virtualised home lab for hands-on networking and security practice. Sessions cover VM setup, firewall configuration, network monitoring, and offensive security tooling — with documented troubleshooting notes at every step.
+
+View project → [Virtualised Network & Security Environment](homelab)
+<br><br>
+
 <h2><strong> Packet Tracer</strong></h2>
 
 This project simulates a small office with separate departments on their own VLANs. The network gives each department the access it needs, blocks traffic that should not cross between them, and hardens the routers and switches against common access and layer 2 attacks.
@@ -41,22 +51,12 @@ View project ->[Pentesting](pentest/README.md)
 
 <br><br>
 
-<h2><strong> Port Scanner</strong></h2>
+<h2><strong>- Port Scanner</strong></h2>
 
-<p>a lightweight, multithreaded TCP port scanner built in Python. It takes a target and a range of ports, then reports which are open and what service each typically runs. Written from scratch with the standard library to demonstrate socket programming, concurrency, and clean CLI design.
+A lightweight, multithreaded TCP port scanner built in Python. It takes a target and a range of ports, then reports which are open and what service each typically runs. Written from scratch with the standard library to demonstrate socket programming, concurrency, and clean CLI design.
 
 View project -> [Port Scanner](port-scanner/README.md)
 
-
-<br><br>
-
-<h2><strong>🖥️ Home Lab, Nmap and Wireshark</strong></h2>
-
-VirtualBox · Ubuntu · pfSense · Kali Linux · Wireshark · Nmap
-
-Building a virtualised home lab for hands-on networking and security practice. Sessions cover VM setup, firewall configuration, network monitoring, and offensive security tooling — with documented troubleshooting notes at every step.
-
-View project → [Virtualised Network & Security Environment](homelab)
 <br><br>
 
 <h2><strong>Incident Response Plan </strong></h2>
