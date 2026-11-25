@@ -1,10 +1,6 @@
-# Home Lab — Virtualised Network & Security Environment
+# Home Lab for practicing virtualisation and networking
 
-> A VirtualBox home lab covering firewalls, subnetting, and network monitoring — built from scratch, documented as it breaks.
-
-This lab is a hands-on environment for practising real networking and security skills outside the classroom. Every session is documented, including what went wrong and how it was diagnosed.
-
----
+This lab is a hands-on environment for practising real networking and security skills outside the classroom. It includes what went wrong and how it was diagnosed.
 
 ## Lab Architecture
 
@@ -20,10 +16,8 @@ All internal VMs sit behind OPNsense on an isolated virtual network. OPNsense ac
 
 <strong>Network Topology</strong>
 
-![Network topology](Network Topology.png)
+<img src="networktopology.png" alt=" Network" width="400">
 
-
----
 
 ## Sessions
 
