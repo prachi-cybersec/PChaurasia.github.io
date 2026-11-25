@@ -1,8 +1,3 @@
----
-layout: default
-title: Meadowbrook Network
----
-
 # Home Lab — Virtualised Network & Security Environment
 
 > A VirtualBox home lab covering firewalls, subnetting, and network monitoring — built from scratch, documented as it breaks.
@@ -25,7 +20,7 @@ All internal VMs sit behind OPNsense on an isolated virtual network. OPNsense ac
 
 <strong>Network Topology</strong>
 
-<img width="1100" height="600" alt="Screen Shot 2026-08-10 at 02 52 44 893 PM" src="https://github.com/user-attachments/assets/a834b7e2-da12-4996-9c42-3c5bbb8145fb" />
+![Network topology](Network Topology.png)
 
 
 ---
