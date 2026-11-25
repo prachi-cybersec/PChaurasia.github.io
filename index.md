@@ -31,14 +31,14 @@ VirtualBox · Ubuntu · Kali Linux · Wireshark · Nmap
 
 Building a virtualised home lab for hands-on networking and security practice. Sessions cover VM setup, firewall configuration, network monitoring, and offensive security tooling — with documented troubleshooting notes at every step.
 
-View project → [Virtualised Network & Security Environment](homelab)
+View project: [Home Lab for practical work](home-lab/README.md)
 <br><br>
 
 <h2><strong> Packet Tracer</strong></h2>
 
 This project simulates a small office with separate departments on their own VLANs. The network gives each department the access it needs, blocks traffic that should not cross between them, and hardens the routers and switches against common access and layer 2 attacks.
 
-View project → [Packet Tracer](packet-tracer/README.md)
+View project : [Packet Tracer](packet-tracer/README.md)
 
 
 <br><br>
@@ -61,11 +61,9 @@ View project -> [Port Scanner](port-scanner/README.md)
 
 <h2><strong>Incident Response Plan </strong></h2>
 
-VirtualBox · Ubuntu · pfSense · Kali Linux · Wireshark · Nmap
+This project demonstrates the development of a comprehensive Incident Response Plan (IRP) designed to help organizations identify, respond to, contain, eradicate, and recover from cybersecurity incidents. The plan follows industry best practices and provides a structured approach to minimizing business impact and restoring normal operations efficiently.
 
-Building a virtualised home lab for hands-on networking and security practice. Sessions cover VM setup, firewall configuration, network monitoring, and offensive security tooling — with documented troubleshooting notes at every step.
-
-View project → [Virtualised Network & Security Environment](homelab)
+View project → [Incident Response Plan (IRP)](Incident-response-plan/README.md)
 <br><br>
 
 <h3><strong>Core Skills & Technologies</strong></h3>
