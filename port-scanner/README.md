@@ -1,7 +1,3 @@
----
-title: PortScanner
----
-
 # PortScanner
 
 This project is a threaded TCP port scanner developed in Python to perform network reconnaissance by discovering open ports and their typical services. It highlights core cybersecurity and programming concepts, including socket communication, parallel processing, input sanitization, and efficient CLI interaction.
