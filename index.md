@@ -34,7 +34,7 @@ Building a virtualised home lab for hands-on networking and security practice. S
 View project: [Home Lab for practical work](home-lab/README.md)
 <br><br>
 
-<h2><strong> Packet Tracer</strong></h2>
+<h2><strong>- Packet Tracer</strong></h2>
 
 This project simulates a small office with separate departments on their own VLANs. The network gives each department the access it needs, blocks traffic that should not cross between them, and hardens the routers and switches against common access and layer 2 attacks.
 
@@ -43,11 +43,11 @@ View project : [Packet Tracer](packet-tracer/README.md)
 
 <br><br>
 
-<h2><strong>Penetration Testing — DVWA & Mutillidae</strong></h2>
+<h2><strong>- Penetration Testing — DVWA & Mutillidae</strong></h2>
 
 This project documents a full web application penetration test I carried out in my home lab against two deliberately vulnerable training applications, DVWA and Mutillidae, both hosted on a Metasploitable2 target. The goal was to work through the OWASP Top 10 end to end — from reconnaissance, to exploitation, to writing the kind of client-facing report a real engagement produces, complete with CVSS risk ratings and remediation advice.
 
-View project ->[Pentesting](pentest/README.md)
+View project: [Pentesting](pentesting/README.md)
 
 <br><br>
 
@@ -55,7 +55,7 @@ View project ->[Pentesting](pentest/README.md)
 
 A lightweight, multithreaded TCP port scanner built in Python. It takes a target and a range of ports, then reports which are open and what service each typically runs. Written from scratch with the standard library to demonstrate socket programming, concurrency, and clean CLI design.
 
-View project -> [Port Scanner](port-scanner/README.md)
+View project:  [Port Scanner](port-scanner/README.md)
 
 <br><br>
 
