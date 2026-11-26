@@ -1,14 +1,13 @@
-<h3>Hello everyone,I am Prachi.</h3>
+[Linkedin](https://www.linkedin.com/in/prachi-chaurasia-2a419782/)          ||       Email: prachiwork2@gmail.com
 
-<h1>About Me</h1>
 
-This portfolio is a hands-on record of my work in IT and cybersecurity. It shows the projects I've built — home lab networks, security setups, scripts, and troubleshooting write-ups — so you can see what I've actually done, not just a list of skills.
-Everything is documented clearly, including the issues I ran into and how I fixed them. I update it as I finish new projects and work through my certifications.
-This portfolio is actively updated as projects are completed - more is to come...
+<h3>Hello everyone,</h3>
+
+This is the collection of my cybersecurity projects which includes custom home labs, security hardening setups, scripts, and detailed troubleshooting logs. Alongside the final configurations, I share the exact problems I ran into and the steps I took to solve them.
+<br><br>
+This is a living repository that grows as I tackle new labs and advance through my certifications.
 <br><br>
 Thank-you for visiting!
-
-
 <br><br>
 
 📍 Melbourne, VIC
@@ -17,45 +16,54 @@ Thank-you for visiting!
 <br><br>
 🔌 Cert III in Information Technology
 <br><br>
+🏅 Pursuing SC-900: Microsoft Certified Security, Compliance, and Identity Fundamentals
+<br><br>
+🏅 Pursuing SC-200: Microsoft Certified Security Operations Analyst Associate
+<br><br>
 
 <h1>Projects</h1>
 
 <br><br>
-<h2><strong>🏥 Meadowbrook Medical — Multi-VLAN Network Design</strong></h2>
 
-Cisco Packet Tracer · VLSM · VLANs · Router-on-a-stick · ACLs
+<h2><strong>- Home Lab </strong></h2>
 
-Designed and built a multi-department hospital network from scratch. Subnetted a 192.168.50.0/24 block using VLSM, configured VLANs across two switches, implemented inter-VLAN routing, and applied ACLs to block Guest-to-Clinical traffic. Verified with end-to-end pings.
-
-View project → [Meadowbrook Medical Network](Meadowbrook%20Network)
-
-
-<br><br>
-
-<h2><strong>🕵️ Web Application Penetration Test — DVWA & Mutillidae</strong></h2>
-
-This project documents a full web application penetration test I carried out in my home lab against two deliberately vulnerable training applications, DVWA and Mutillidae, both hosted on a Metasploitable2 target. The goal was to work through the OWASP Top 10 end to end — from reconnaissance, to exploitation, to writing the kind of client-facing report a real engagement produces, complete with CVSS risk ratings and remediation advice.
-
-View project ->[Web App Pentest](web-app-pentest/README.md)
-
-<br><br>
-
-<h2><strong>⛵ SchoonerScanner Port Scanner</strong></h2>
-
-<p>a lightweight, multithreaded TCP port scanner built in Python. It takes a target and a range of ports, then reports which are open and what service each typically runs. Written from scratch with the standard library to demonstrate socket programming, concurrency, and clean CLI design.
-
-View project -> [SchoonerScan](schoonerscan/README.md)
-
-
-<br><br>
-
-<h2><strong>🖥️ Home Lab — Virtualised Network & Security Environment</strong></h2>
-
-VirtualBox · Ubuntu · pfSense · Kali Linux · Wireshark · Nmap
+VirtualBox · Ubuntu · Kali Linux · Wireshark · Nmap
 
 Building a virtualised home lab for hands-on networking and security practice. Sessions cover VM setup, firewall configuration, network monitoring, and offensive security tooling — with documented troubleshooting notes at every step.
 
-View project → [Virtualised Network & Security Environment](homelab)
+View project: [Home Lab for practical work](home-lab/README.md)
+<br><br>
+
+<h2><strong>- Packet Tracer</strong></h2>
+
+This project simulates a small office with separate departments on their own VLANs. The network gives each department the access it needs, blocks traffic that should not cross between them, and hardens the routers and switches against common access and layer 2 attacks.
+
+View project : [Packet Tracer](packet-tracer/README.md)
+
+
+<br><br>
+
+<h2><strong>- Penetration Testing — DVWA & Mutillidae</strong></h2>
+
+This project documents a full web application penetration test I carried out in my home lab against two deliberately vulnerable training applications, DVWA and Mutillidae, both hosted on a Metasploitable2 target. The goal was to work through the OWASP Top 10 end to end — from reconnaissance, to exploitation, to writing the kind of client-facing report a real engagement produces, complete with CVSS risk ratings and remediation advice.
+
+View project: [Pentesting](pentesting/README.md)
+
+<br><br>
+
+<h2><strong>- Port Scanner</strong></h2>
+
+A lightweight, multithreaded TCP port scanner built in Python. It takes a target and a range of ports, then reports which are open and what service each typically runs. Written from scratch with the standard library to demonstrate socket programming, concurrency, and clean CLI design.
+
+View project:  [Port Scanner](port-scanner/README.md)
+
+<br><br>
+
+<h2><strong>Incident Response Plan </strong></h2>
+
+This project demonstrates the development of a comprehensive Incident Response Plan (IRP) designed to help organizations identify, respond to, contain, eradicate, and recover from cybersecurity incidents. The plan follows industry best practices and provides a structured approach to minimizing business impact and restoring normal operations efficiently.
+
+View project → [Incident Response Plan (IRP)](Incident-response-plan/README.md)
 <br><br>
 
 <h3><strong>Core Skills & Technologies</strong></h3>
@@ -70,12 +78,10 @@ View project → [Virtualised Network & Security Environment](homelab)
 
 <h3><strong>Certifications & Training</strong></h3>
 
-- Certificate IV in Cybersecurity (August - 2026)
+- Certificate IV in Cybersecurity (2026)
 
 - Certificate III in Information Technology (2025)
 
-- CompTIA Network+ (in progress eta October 2026)
+- SC-900 (in progress eta December 2026)
 
-- CompTIA Security+ (in progress eta December 2026)
-
-- SOC Core Skills — Antisyphon Training w/ John Strand (Passed - 2026)
+- SC-200 (in progress eta January 2027)
